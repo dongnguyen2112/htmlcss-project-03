@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+:root{
+    --header-bg
+}
+html {
+    font-size: 62.5%;
+}
+body {
+    font-size: 1.6rem;
+    font-family: "Sora", sans-serif;
+}
+
+/* Header */
+.header{
+    min-height: 100vh;
+    background-color: #10375C;
+}
