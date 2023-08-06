@@ -590,7 +590,7 @@ a {
 }
 /* Footer */
 .footer {
-    padding-top: 100px ;
+    padding-top: 100px 0;
     background: #10375c;
     font-family: "Open Sans", sans-serif;
 }
@@ -681,15 +681,4 @@ a {
     min-width: 108px;
     border-radius: 4px;
     font-size: 1.4rem;
-}
-.footer__copyright {
-    padding: 28px 0 42px;
-    border-top: 1px solid #406181;
-}
-
-.footer__copyright-text {
-    font-size: 1.4rem;
-    line-height: 1.86;
-    text-align: center;
-    color: #aab3ba;
 }
